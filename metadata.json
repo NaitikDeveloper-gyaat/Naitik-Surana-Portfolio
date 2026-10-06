@@ -1,0 +1,6 @@
+{
+  "name": "Naitik --Portfolio",
+  "description": "3D Creator portfolio landing page for Naitik showcasing 3D modeling, rendering, motion design, and digital experiences.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
